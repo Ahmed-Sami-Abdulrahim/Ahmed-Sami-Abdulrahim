@@ -1,4 +1,14 @@
-Welcome to Ahmed Sami's Profile! 🌟
-Embedded Software Engineer
+# **Welcome to Ahmed Sami's Profile!** 🌟
 
-🔧 Linux | C++ | Device Drivers | Yocto | Python
+---
+
+### **Embedded Software Engineer**
+
+**🔧 Skills:**
+- **Linux**
+- **C++**
+- **Device Drivers**
+- **Yocto**
+- **Python**
+
+---
