@@ -4,7 +4,6 @@
 
 ### **Embedded Software Engineer**
 
-**🔧 Skills:**
 - **Linux**
 - **C++**
 - **Device Drivers**
